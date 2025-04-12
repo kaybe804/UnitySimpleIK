@@ -1,5 +1,5 @@
 # UnitySimpleIK
-First i cannot guarantee that this will work for your workflow. I tested it with mine and i seemed to work consistently, but i am neither a unity programmer not a 3d artist, so this still might not work for you. This is basically an alpha version.
+First i cannot guarantee that this will work for your workflow. I tested it with mine and i seemed to work consistently, but i am neither a unity programmer nor a 3d artist, so this still might not work for you. This is basically an alpha version.
 
 Installing the IK:
 Copy the contents of the plugin folder to game/bepinex/plugins/.
