@@ -21,6 +21,3 @@ This is intended for 3 bone back legs of quadrupeds. It is a bit more tricky to 
 
 Use shin and foot bones, as well as the IK heel bone and a pole placed behind the leg for the first IK chain.
 For the second IK Chain, create a dummy bone placed at your thigh, and a dummy shin bone that leads to your foot. Create an IK pole in front of the leg. Set the "Dummythigh" to dummy thigh, the "DummyShin" to your dummy shin, the Thigh to your models actual thigh, and the Thigh Pole to your created one. Adjust both pole angles accordingly (try 45° steps if in doubt).
-
-If you are unsure about how the three bone ik works, or how to build the prerequisites in blender, i would recommend watching this video for reference (~5 Minutes):
-https://youtu.be/2p_o6XmmTN0?feature=shared&t=401
